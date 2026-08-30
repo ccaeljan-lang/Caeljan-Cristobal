@@ -17,7 +17,7 @@ const portfolioIcon = `<svg class="icon" viewBox="0 0 24 24" fill="currentColor"
 const profile = {
     // Profile basics
     name: "Caeljan Cristobal",
-    username: "Cj",
+    username: "Nickname: Cj",
     bio: "Computer Engineer (Soon) & Computational Astrophysicist (Soon)",
     profileImage: "images/profile.png",
 

@@ -12,7 +12,7 @@
     --bg-color: #f8f9fa;
     --card-bg: #ffffff;
     --text-primary: #1a1a2e;
-    --text-secondary: #6c757d;
+    --text-secondary: #000000;
     --border-color: #e9ecef;
     --button-bg: #1a1a2e;
     --button-hover: #2d2d44;
@@ -49,12 +49,12 @@ body {
 }
 
 .profile-card {
-    background: var(--card-bg);
+    background: rgba(255, 255, 255, 0.6);
     border-radius: var(--radius);
     padding: 2.5rem 2rem;
     box-shadow: var(--shadow);
     text-align: center;
-    border: 1px solid var(--border-color);
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .profile-image-wrapper {
@@ -77,13 +77,12 @@ body {
     font-size: 1.75rem;
     font-weight: 600;
     color: var(--text-primary);
-    margin-bottom: 0.25rem;
     letter-spacing: -0.02em;
 }
 
 .username {
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     color: var(--text-secondary);
     margin-bottom: 1.25rem;
 }
