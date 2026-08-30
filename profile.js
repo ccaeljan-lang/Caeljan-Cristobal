@@ -16,8 +16,8 @@ const portfolioIcon = `<svg class="icon" viewBox="0 0 24 24" fill="currentColor"
 // ============================================
 const profile = {
     // Profile basics
-    name: "Cj | Caeljan",
-    username: "@ccaeljan",
+    name: "Caeljan Cristobal",
+    username: "Cj",
     bio: "Computer Engineer (Soon) & Computational Astrophysicist (Soon)",
     profileImage: "images/profile.png",
 
