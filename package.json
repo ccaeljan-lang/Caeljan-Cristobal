@@ -1,0 +1,14 @@
+{
+  "name": "linkbio",
+  "version": "1.0.0",
+  "description": "Simple Link-in-Bio website for Vercel",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000"
+  },
+  "keywords": ["link-in-bio", "vercel", "static"],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
