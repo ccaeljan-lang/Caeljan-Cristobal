@@ -26,7 +26,7 @@ const profile = {
         { name: "GitHub", url: "https://github.com/ccaeljan-lang", icon: githubIcon },
         { name: "Instagram", url: "https://www.instagram.com/ccaeljan?igsi=azU1dmd5dW0wdnNm&utm_source=qr", icon: instagramIcon },
         { name: "Facebook", url: "https://www.facebook.com/cj.cristobal.31", icon: facebookIcon },
-        { name: "LinkedIn", url: "https://www.linkedin.com/in/caeljan-cristobal-0078a9380n", icon: linkedinIcon },
+        { name: "LinkedIn", url: "https://www.linkedin.com/in/caeljan-cristobal-0078a9380", icon: linkedinIcon },
         { name: "Portfolio", url: "", icon: portfolioIcon }
     ]
 };
