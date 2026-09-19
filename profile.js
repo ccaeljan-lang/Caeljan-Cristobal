@@ -18,7 +18,7 @@ const profile = {
     // Profile basics
     name: "Caeljan Cristobal",
     username: "You can call me Cj!",
-    bio: "🚀 Into space, astronomy, and computational astrophysics\n🏹💚 Computer Engineering student at DLSU",
+    bio: "🚀 Into space, astronomy, remote sensing, and computational astrophysics\n🏹💚 Computer Engineering student at DLSU",
     profileImage: "images/profile.png",
 
     // Social links - replace URLs with your own
